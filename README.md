@@ -1,4 +1,4 @@
-# AERO: Efficient-yet-Effective Path Representation Learning
+# AutoPRL: Automated Path Represenation Learning via Learnable View Generator
 
 For the code, Please check the zip file. Thanks.
 
